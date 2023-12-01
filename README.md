@@ -9,3 +9,5 @@ Koen Peter Janssen
 Supervisor: dr. Merel Jung
 
 Comittee: dr. Nevena Ranković
+
+Run\analyse the code in the order it is numbered.
